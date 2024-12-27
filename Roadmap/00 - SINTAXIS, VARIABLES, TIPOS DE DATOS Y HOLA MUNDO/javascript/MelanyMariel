@@ -1,0 +1,25 @@
+//Sitio web: https://developer.mozilla.org/es/docs/Web/JavaScript
+
+//Comentario de una sola linea
+
+/*Comentario
+en multiples
+lineas*/
+
+//3. Crea una variable (y una constante si el lenguaje lo soporta).
+
+var num: 1;
+const de: 0.5;
+
+//4. Crea variables representando todos los tipos de datos primitivos
+ *   del lenguaje (cadenas de texto, enteros, booleanos...)
+
+variableString: "Este es un texto";
+int a: 1;
+let bool1: true;
+let bool2: false;
+//5. Imprime por terminal el texto: "¡Hola, [y el nombre de tu lenguaje]!"
+
+
+    let languaje = "JavaScript";
+    console.log("Hola Mundo "+ languaje);
