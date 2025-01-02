@@ -1,0 +1,50 @@
+/*
+ * EJERCICIO:
+ * - Crea ejemplos utilizando todos los tipos de operadores de tu lenguaje:
+ *   Aritméticos, lógicos, de comparación, asignación, identidad, pertenencia, bits...
+ *   (Ten en cuenta que cada lenguaje puede poseer unos diferentes)
+ * - Utilizando las operaciones con operadores que tú quieras, crea ejemplos
+ *   que representen todos los tipos de estructuras de control que existan
+ *   en tu lenguaje:
+ *   Condicionales, iterativas, excepciones...
+ * - Debes hacer print por consola del resultado de todos los ejemplos.
+ *
+ * DIFICULTAD EXTRA (opcional):
+ * Crea un programa que imprima por consola todos los números comprendidos
+ * entre 10 y 55 (incluidos), pares, y que no son ni el 16 ni múltiplos de 3.
+ *
+ * Seguro que al revisar detenidamente las posibilidades has descubierto algo nuevo.
+ */
+
+//Operadores aritméticos
+
+let suma= 5+2;
+let resta= 1-2;
+división= 10/2;
+let multiplicación= 4*5;
+
+//Operadores lógicos 
+AND
+
+let and1= true && false;  //true
+let and2= false && false; //false
+let and3= true && true; //true
+OR
+let or1= true || false;
+let or2= false || false;
+let or3= true || true; //true
+NOT
+//INVIERTE EL VALOR
+let valor1= !true;
+let valaor2= !false;
+
+//OPERADOR DE COMPARACIÓN
+
+let nota1= a;
+let nota2= b;
+
+let bool1= a==b;
+let bool2= a>b;
+let bool3= a >=b;
+let bool4= a <=b;
+let bool5= a===b;
